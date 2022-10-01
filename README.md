@@ -3,7 +3,7 @@
 We worked on data transfer
 
 Data transfer(Show),
-Data transfer (Storyboard Segue),
+Data transfer (PresentModally),
 
 
 
